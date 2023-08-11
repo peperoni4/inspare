@@ -1,0 +1,2 @@
+# inspare
+Dictionary app
